@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+prophet.ipynb
+*.sql
+.DS_Store
+/Data
+/Downloads
+/ml-latest
+/Основы_pandas
+/Доп_материалы
+.idea/
+/dz_05.02/res_?/*.crc
+/kafka-streams-practice
